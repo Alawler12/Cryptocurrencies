@@ -3,6 +3,9 @@ The purpose of this project was to explore unsupervised machine learning techniq
 **Original DataFrame**
 ![dataframe.PNG](https://github.com/Alawler12/Cryptocurrencies/blob/main/screenshots/dataframe.PNG)
 
+**Processed DataFrame**
+![filtered.PNG](https://github.com/Alawler12/Cryptocurrencies/blob/main/screenshots/filtered.PNG)
+
 **Elbow curve to estimate K value**
 ![elbow.PNG](https://github.com/Alawler12/Cryptocurrencies/blob/main/screenshots/elbow.PNG)
 

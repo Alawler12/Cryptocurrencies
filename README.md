@@ -1,1 +1,1 @@
-# Cryptocurrencies
+The purpose of this project was to explore unsupervised machine learning techniques using cryptocurrency data.  In this project I processed the data, clustered, reduced dimension, and reduced the principal components using PCA.  The aim was to create a report that shows what currencies are available on the trading market and how they could be grouped into a classification system.  A set of 1251 cryptocurrencies were reduced to 532 tradable currencies that were clustered into 4 classes and visualized into 3D and 2D models.
